@@ -1,0 +1,49 @@
+{
+    "name": "angular-extension-pack-by-bro-jenuel",
+    "displayName": "Angular Extension Pack By Bro Jenuel",
+    "description": "This is a extention pack for developing Angular Apps using Angular JS.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "Angular.ng-template", 
+        "bmewburn.vscode-intelephense-client", 
+        "bung87.rails", 
+        "bung87.vscode-gemfile", 
+        "castwide.solargraph", 
+        "christian-kohler.path-intellisense", 
+        "cyrilletuzi.angular-schematics", 
+        "Dart-Code.dart-code", 
+        "Dart-Code.flutter", 
+        "dsznajder.es7-react-js-snippets", 
+        "EQuimper.react-native-react-redux", 
+        "felixfbecker.php-debug", 
+        "felixfbecker.php-intellisense", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "hollowtree.vue-snippets", 
+        "Hridoy.rails-snippets", 
+        "humao.rest-client", 
+        "johnpapa.Angular2", 
+        "jundat95.react-native-snippet", 
+        "kaiwood.endwise", 
+        "Mikael.Angular-BeastCode", 
+        "MisterJ.php-extention-pack-for-development", 
+        "MisterJ.ruby-on-rails-misterjdevpack", 
+        "ms-vscode.vscode-typescript-tslint-plugin", 
+        "msjsdiag.vscode-react-native", 
+        "octref.vetur", 
+        "PKief.material-icon-theme", 
+        "rebornix.ruby", 
+        "sianglim.slim", 
+        "sibiraj-s.vscode-scss-formatter", 
+        "steoates.autoimport", 
+        "wingrunr21.vscode-ruby", 
+        "xabikos.JavaScriptSnippets", 
+        "zhuangtongfa.material-theme"
+    ]
+}

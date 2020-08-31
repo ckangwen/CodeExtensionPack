@@ -3,10 +3,14 @@
 
 ## Released
 
-### [0.0.2]  -  2020 August 19
--added icon  
+## [0.0.3]  -  2020 August 19
+- added endwise
+- [endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise) published by Kai Wood
 
-### [0.0.1]  -  2020 August 19
+## [0.0.2]  -  2020 August 19
+- added icon  
+
+## [0.0.1]  -  2020 August 19
 #### Extentions Added for the pack
 - added Name: Rails  
 Id: bung87.rails  

@@ -2,7 +2,7 @@
     "name": "ruby-on-rails-misterjdevpack",
     "displayName": "Ruby on Rails MisterJDevPack",
     "description": "This is an extentiosn that is used for developing in ruby on rails pack that I made for my self and you can use it too.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -22,6 +22,7 @@
         "castwide.solargraph",
         "sianglim.slim",
         "wingrunr21.vscode-ruby",
-        "bung87.vscode-gemfile"
+        "bung87.vscode-gemfile",
+        "kaiwood.endwise"
     ]
 }
