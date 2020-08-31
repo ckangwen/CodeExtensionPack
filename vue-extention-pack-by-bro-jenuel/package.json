@@ -1,0 +1,23 @@
+{
+    "name": "vue-extention-pack-by-bro-jenuel",
+    "displayName": "Vue Extention Pack",
+    "description": "This is a Extention pack for Deveoping Vue JS Apps.",
+    "version": "0.0.1",
+    "publisher": "MisterJ",
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MisterJ936/CodeExtentionPack.git"
+    },
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "octref.vetur",
+        "hollowtree.vue-snippets",
+        "xabikos.javascriptsnippets"
+    ]
+}
