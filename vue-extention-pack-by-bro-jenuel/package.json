@@ -2,7 +2,7 @@
     "name": "vue-extention-pack-by-bro-jenuel",
     "displayName": "Vue Extention Pack",
     "description": "This is a Extention pack for Deveoping Vue JS Apps.",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -15,9 +15,12 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "octref.vetur",
         "hollowtree.vue-snippets",
-        "xabikos.javascriptsnippets"
+        "xabikos.javascriptsnippets",
+        "christian-kohler.path-intellisense",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag"
     ]
 }
