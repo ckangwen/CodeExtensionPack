@@ -2,7 +2,7 @@
     "name": "react-native-expack-by-bro-jenuel",
     "displayName": "React Native ExPack",
     "description": "This is an extention for developing react native apps.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -15,10 +15,13 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "dsznajder.es7-react-js-snippets",
         "msjsdiag.vscode-react-native",
         "jundat95.react-native-snippet",
-        "equimper.react-native-react-redux"
+        "equimper.react-native-react-redux",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "steoates.autoimport"
     ]
 }

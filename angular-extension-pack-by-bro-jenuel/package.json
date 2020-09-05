@@ -2,7 +2,7 @@
     "name": "angular-extension-pack-by-bro-jenuel",
     "displayName": "Angular Extension Pack By Bro Jenuel",
     "description": "This is a extention pack for developing Angular Apps using Angular JS.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -15,10 +15,13 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "angular.ng-template",
         "cyrilletuzi.angular-schematics",
         "dbaeumer.vscode-eslint",
-        "ms-vscode.vscode-typescript-tslint-plugin"
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "steoates.autoimport"
     ]
 }

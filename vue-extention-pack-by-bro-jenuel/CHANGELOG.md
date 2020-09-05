@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.4]
+### September 5, 2020
+added extention
+ - Auto Import = we need this for auto importing things that we need.
+
 ## [0.0.2]
 ### September 2, 2020
 added extentions

@@ -2,7 +2,7 @@
     "name": "vue-extention-pack-by-bro-jenuel",
     "displayName": "Vue Extention Pack",
     "description": "This is a Extention pack for Deveoping Vue JS Apps.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -21,6 +21,7 @@
         "xabikos.javascriptsnippets",
         "christian-kohler.path-intellisense",
         "formulahendry.auto-close-tag",
-        "formulahendry.auto-rename-tag"
+        "formulahendry.auto-rename-tag",
+        "steoates.autoimport"
     ]
 }
