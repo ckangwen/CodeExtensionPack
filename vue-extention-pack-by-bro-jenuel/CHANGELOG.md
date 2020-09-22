@@ -1,5 +1,13 @@
 # Change Log
 
+## [0.0.5]
+### September 22, 2020
+added extention
+ - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+     - it is an extention made by Microsoft
+     - the resean why add this is because, Vue 3 now supports typescrypt and so needs to have a type script tslinter for clean code.
+
+
 ## [0.0.4]
 ### September 5, 2020
 added extention
