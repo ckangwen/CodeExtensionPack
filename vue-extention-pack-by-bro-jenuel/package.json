@@ -2,7 +2,7 @@
     "name": "vue-extention-pack-by-bro-jenuel",
     "displayName": "Vue Extention Pack",
     "description": "This is a Extention pack for Deveoping Vue JS Apps.",
-    "version": "0.0.5",
+    "version": "0.1.0",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -23,6 +23,7 @@
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
         "steoates.autoimport",
-        "ms-vscode.vscode-typescript-tslint-plugin"
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "syler.sass-indented"
     ]
 }

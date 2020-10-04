@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.1.0]
+### September 22, 2020
+added extention
+ - [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)  
+    - This is because vue js supports sass, and it is one of a must to know and be implemented in any project for easy styling manipulation.
+
 ## [0.0.5]
 ### September 22, 2020
 added extention
