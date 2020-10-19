@@ -1,5 +1,15 @@
 # Change Log
 
+## [0.2.0]
+### September 22, 2020
+added extention
+ - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) 
+    - A customizable extension for colorizing matching brackets. I added this to help in code reading. So that it will be easy to Identity the opening and closing brackets, curley braces etc.
+  - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+    - Support for dotenv file syntax. Since mostly we use ENV files for creating environment viriables. This is Useful for highlighing our env files.
+  - [SCSS Formatter](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter)
+    - A Visual Studio Code Extension to format SCSS. Using scss to style our app is the best choice so I added this for formatting our Scss files.
+
 ## [0.1.0]
 ### September 22, 2020
 added extention
