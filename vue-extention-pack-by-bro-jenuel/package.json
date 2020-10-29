@@ -2,7 +2,7 @@
     "name": "vue-extention-pack-by-bro-jenuel",
     "displayName": "Vue Extention Pack",
     "description": "This is a Extention pack for Deveoping Vue JS Apps.",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -27,6 +27,7 @@
         "syler.sass-indented",
         "coenraads.bracket-pair-colorizer",
         "mikestead.dotenv",
-        "sibiraj-s.vscode-scss-formatter"
+        "sibiraj-s.vscode-scss-formatter",
+        "esbenp.prettier-vscode"
     ]
 }

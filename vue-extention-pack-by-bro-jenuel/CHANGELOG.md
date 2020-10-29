@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.3.0]
+### September 22, 2020
+added extention
+ - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) 
+    - Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+
 ## [0.2.0]
 ### September 22, 2020
 added extention
