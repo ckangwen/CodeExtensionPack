@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.4]
+Added new extentions
+- added debugger extentions and added prettier to prettify our code to be easily formatted.
+
 ## [0.0.3]
 Added new extentions
 - AUTO RENAME TAG = Mostly we work on HTML for the templating so we need some auto rename tag. This means if you rename the tag, it automatically renames the name tag also and vise versa which is really really help ful.
