@@ -2,7 +2,7 @@
     "name": "vue-extention-pack-by-bro-jenuel",
     "displayName": "Vue Extention Pack",
     "description": "This is a Extention pack for Deveoping Vue JS Apps.",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -17,7 +17,6 @@
     ],
     "extensionPack": [
         "octref.vetur",
-        "hollowtree.vue-snippets",
         "xabikos.javascriptsnippets",
         "christian-kohler.path-intellisense",
         "formulahendry.auto-close-tag",
@@ -28,6 +27,7 @@
         "coenraads.bracket-pair-colorizer",
         "mikestead.dotenv",
         "sibiraj-s.vscode-scss-formatter",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "wscats.vue"
     ]
 }
