@@ -2,7 +2,7 @@
     "name": "react-native-expack-by-bro-jenuel",
     "displayName": "React Native ExPack",
     "description": "This is an extention for developing react native apps.",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -22,6 +22,10 @@
         "equimper.react-native-react-redux",
         "formulahendry.auto-rename-tag",
         "formulahendry.auto-close-tag",
-        "steoates.autoimport"
+        "steoates.autoimport",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "coenraads.bracket-pair-colorizer",
+        "aaron-bond.better-comments"
     ]
 }
