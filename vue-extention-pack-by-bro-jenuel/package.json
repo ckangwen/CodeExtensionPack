@@ -2,10 +2,11 @@
     "name": "vue-extention-pack-by-bro-jenuel",
     "displayName": "Vue Extention Pack",
     "description": "This is a Extention pack for Deveoping Vue JS Apps.",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "scripts": {
+        "package": "vsce package",
         "publish": "vsce publish"
     },
     "repository": {
