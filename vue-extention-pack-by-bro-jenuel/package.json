@@ -2,9 +2,12 @@
     "name": "vue-extention-pack-by-bro-jenuel",
     "displayName": "Vue Extention Pack",
     "description": "This is a Extention pack for Deveoping Vue JS Apps.",
-    "version": "0.3.1",
+    "version": "0.4.0",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
+    "scripts": {
+        "publish": "vsce publish"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/MisterJ936/CodeExtentionPack.git"
@@ -24,7 +27,6 @@
         "steoates.autoimport",
         "ms-vscode.vscode-typescript-tslint-plugin",
         "syler.sass-indented",
-        "coenraads.bracket-pair-colorizer",
         "mikestead.dotenv",
         "sibiraj-s.vscode-scss-formatter",
         "esbenp.prettier-vscode",
