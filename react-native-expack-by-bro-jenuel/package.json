@@ -2,7 +2,7 @@
     "name": "react-native-expack-by-bro-jenuel",
     "displayName": "React Native ExPack",
     "description": "This is an extention for developing react native apps.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -25,7 +25,6 @@
         "steoates.autoimport",
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
-        "coenraads.bracket-pair-colorizer",
         "aaron-bond.better-comments"
     ]
 }

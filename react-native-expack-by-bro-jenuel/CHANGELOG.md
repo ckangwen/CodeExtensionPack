@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.0]
+### September 8, 2021
+  - Removed Bracket Pair Colorizer Because VS Code has a build in pair colorizer. To enable colorizer in VS Code. Go to Settings and search for `bracket pair colorization` and enable it.
+
 ## [1.0.0] July 31, 2021
  - added new extensions
    - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - This is a configurable linter tool that identify and report on patterns in JS. Any problem this extension finds can be automatically fixed. The fixes are syntax-aware so there won’t be errors introduced by traditional find-and-replace algorithms.
