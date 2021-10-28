@@ -1,5 +1,7 @@
 # Change Log
 
+## [1.0.1]
+- added icon
 
 ## [1.0.0]
 

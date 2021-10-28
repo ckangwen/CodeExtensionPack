@@ -2,8 +2,9 @@
     "name": "vue-volar-extention-pack",
     "displayName": "Vue Volar Extention Pack",
     "description": "This extension packs uses volar for vue projects.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "MisterJ",
+    "icon": "images/icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/MisterJ936/CodeExtentionPack.git"
@@ -14,7 +15,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "xabikos.javascriptsnippets",
         "christian-kohler.path-intellisense",
         "formulahendry.auto-close-tag",
