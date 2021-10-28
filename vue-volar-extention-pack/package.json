@@ -1,0 +1,31 @@
+{
+    "name": "vue-volar-extention-pack",
+    "displayName": "Vue Volar Extention Pack",
+    "description": "This extension packs uses volar for vue projects.",
+    "version": "1.0.0",
+    "publisher": "MisterJ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MisterJ936/CodeExtentionPack.git"
+    },
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "xabikos.javascriptsnippets",
+        "christian-kohler.path-intellisense",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "steoates.autoimport",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "syler.sass-indented",
+        "mikestead.dotenv",
+        "sibiraj-s.vscode-scss-formatter",
+        "esbenp.prettier-vscode",
+        "wscats.vue",
+        "johnsoncodehk.volar"
+    ]
+}
