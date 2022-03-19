@@ -2,6 +2,9 @@
 
 
 ## Released
+## [1.0.0]  -  2022 March 19
+- Major Update
+- very minor update
 
 ## [0.0.3]  -  2020 August 19
 - added endwise
