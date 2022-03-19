@@ -1,4 +1,12 @@
 # Change Log
+
+## [1.0.0]
+### March 19, 2022
+- added new Extension
+  - [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
+  - This is a very useful extension it has many useful snippets to make developing vuejs web apps even faster.
+  - To Check the snippets, check the extension readme file [HERE](https://github.com/sdras/vue-vscode-snippets#readme)
+
 ## [0.5.0]
 ### September 8, 2021
   - Removed Bracket Pair Colorizer Because VS Code has a build in pair colorizer. To enable colorizer in VS Code. Go to Settings and search for `bracket pair colorization` and enable it.

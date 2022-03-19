@@ -2,7 +2,7 @@
     "name": "vue-volar-extension-pack",
     "displayName": "Vue Volar extension Pack",
     "description": "This extension packs uses volar for vue projects.",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -31,6 +31,7 @@
         "sibiraj-s.vscode-scss-formatter",
         "esbenp.prettier-vscode",
         "wscats.vue",
-        "johnsoncodehk.volar"
+        "johnsoncodehk.volar",
+        "sdras.vue-vscode-snippets"
     ]
 }
