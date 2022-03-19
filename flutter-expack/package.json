@@ -2,7 +2,7 @@
     "name": "flutter-expack",
     "displayName": "Flutter ExPack",
     "description": "this is an extension pack for developing flutter apps.",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
