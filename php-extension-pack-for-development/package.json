@@ -12,6 +12,10 @@
     "engines": {
         "vscode": "^1.48.0"
     },
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish"
+    },
     "categories": [
         "Extension Packs"
     ],
