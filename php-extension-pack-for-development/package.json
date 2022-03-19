@@ -2,7 +2,7 @@
     "name": "php-extension-pack-for-development",
     "displayName": "PHP extension pack for Development",
     "description": "This are extensions that is used for developing php projects.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
@@ -19,7 +19,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "felixfbecker.php-debug",
         "bmewburn.vscode-intelephense-client",
         "felixfbecker.php-intellisense"

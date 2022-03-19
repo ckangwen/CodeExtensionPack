@@ -4,7 +4,10 @@
 
 ## [Released]
 
-### 19 August 2020
+### 19 August 2020 - 1.0.0 
+- Major Version
+
+### 19 August 2020 - 0.0.1
 - released extension for PHP
 - Name: PHP Debug  
 Id: felixfbecker.php-debug  

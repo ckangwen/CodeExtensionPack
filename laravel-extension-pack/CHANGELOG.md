@@ -4,6 +4,9 @@ All notable changes to the "laravel-extension-pack" extension pack will be docum
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2022 March 19]
+- very minor update
+
 ## [2021 July 24]
 
 - Extensions Added
