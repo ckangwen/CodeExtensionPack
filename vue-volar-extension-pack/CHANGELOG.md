@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.1]
+### March 19, 2022
+- update readme
+
 ## [1.1.0]
 ### March 19, 2022
 - added new Extension
