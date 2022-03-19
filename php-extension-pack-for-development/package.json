@@ -1,13 +1,13 @@
 {
-    "name": "php-extention-pack-for-development",
-    "displayName": "PHP Extention pack for Development",
-    "description": "This are extentions that is used for developing php projects.",
+    "name": "php-extension-pack-for-development",
+    "displayName": "PHP extension pack for Development",
+    "description": "This are extensions that is used for developing php projects.",
     "version": "0.0.1",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/MisterJ936/CodeExtentionPack.git"
+        "url": "https://github.com/BroJenuel/CodeExtensionPack.git"
     },
     "engines": {
         "vscode": "^1.48.0"

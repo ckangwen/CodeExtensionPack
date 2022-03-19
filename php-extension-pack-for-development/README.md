@@ -1,15 +1,15 @@
-# PHP Extention for PHP Development Workplace
+# PHP extension for PHP Development Workplace
 
 This extension is for php work place.  
 For now this extension is really recommended when  
-in developing PHP programs, and also this extention  
+in developing PHP programs, and also this extension  
 works well with this PHP Frameworks.
 
 - CodeIgniter
 - Lumen
 - Laravel
 
-## Extention Included
+## extension Included
 - Name: PHP Debug  
 Id: felixfbecker.php-debug  
 Description: Debug support for PHP with XDebug  

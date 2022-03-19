@@ -5,7 +5,7 @@
 ## [Released]
 
 ### 19 August 2020
-- released extention for PHP
+- released extension for PHP
 - Name: PHP Debug  
 Id: felixfbecker.php-debug  
 Description: Debug support for PHP with XDebug  

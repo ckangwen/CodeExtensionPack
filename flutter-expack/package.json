@@ -1,13 +1,13 @@
 {
     "name": "flutter-expack",
     "displayName": "Flutter ExPack",
-    "description": "this is an extention pack for developing flutter apps.",
+    "description": "this is an extension pack for developing flutter apps.",
     "version": "0.0.1",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/MisterJ936/CodeExtentionPack.git"
+        "url": "https://github.com/BroJenuel/CodeExtensionPack.git"
     },
     "engines": {
         "vscode": "^1.48.0"

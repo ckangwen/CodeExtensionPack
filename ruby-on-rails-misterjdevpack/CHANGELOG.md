@@ -11,7 +11,7 @@
 - added icon  
 
 ## [0.0.1]  -  2020 August 19
-#### Extentions Added for the pack
+#### extensions Added for the pack
 - added Name: Rails  
 Id: bung87.rails  
 Description: Ruby on Rails support for Visual Studio   Code  

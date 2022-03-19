@@ -1,6 +1,6 @@
-# FLUTTER EXTENTION PACK
+# FLUTTER extension PACK
 
 ## About
-This is an extention pack for developing Flutter Apps.
+This is an extension pack for developing Flutter Apps.
 
 **Enjoy!**

@@ -1,7 +1,7 @@
-# React Native Extention Pack
+# React Native extension Pack
 
 ## About
 
-This is an extention for Developing React Native Apps
+This is an extension for Developing React Native Apps
 
 **Enjoy!**

@@ -1,8 +1,8 @@
 # Ruby On Rails MisterJPack
 
-This is an extention pack I made for my Ruby on Rails development workplace. This is the only extention i used to work so you might not and might like it. Use it with your peronal project if you want.
+This is an extension pack I made for my Ruby on Rails development workplace. This is the only extension i used to work so you might not and might like it. Use it with your peronal project if you want.
 
-## Extentions Included
+## extensions Included
 - [Rails](https://marketplace.visualstudio.com/items?itemName=bung87.rails) Publisher by 周鹏
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) published by Peng Lv
 - [Ruby on Rails](https://marketplace.visualstudio.com/items?itemName=hridoy.rails-snippets) published by Hridoy

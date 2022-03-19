@@ -1,7 +1,7 @@
 {
-    "name": "vue-extention-pack-by-bro-jenuel",
-    "displayName": "Vue Extention Pack",
-    "description": "This is a Extention pack for Deveoping Vue JS Apps.",
+    "name": "vue-extension-pack-by-bro-jenuel",
+    "displayName": "Vue extension Pack",
+    "description": "This is a extension pack for Deveoping Vue JS Apps.",
     "version": "0.5.0",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/MisterJ936/CodeExtentionPack.git"
+        "url": "https://github.com/BroJenuel/CodeExtensionPack.git"
     },
     "engines": {
         "vscode": "^1.48.0"

@@ -1,8 +1,7 @@
-# Angular Extention Pack By BroJenuel
+# Angular extension Pack By BroJenuel
 
-## Extention About
+## extension About
 
-This is a extention Pack for Developing Web App. I dont want to add everything in here like Theme and others, I only added the things that needed in prgoramming.
-
+This is a extension Pack for Developing Web App. I don't want to add everything in here like Theme and others, I only added the things that needed in programming.
 
 **Enjoy!**

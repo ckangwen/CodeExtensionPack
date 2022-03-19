@@ -5,7 +5,7 @@
 
 ## [1.0.0]
 
-This are extentions Included:
+This are extensions Included:
 - Name: JavaScript (ES6) code snippets
 Id: xabikos.javascriptsnippets
 Description: Code snippets for JavaScript in ES6 syntax
